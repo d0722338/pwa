@@ -7,8 +7,8 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "images/icons8-spotify-100.png",
-      "sizes": "100x10",
+      "src": "icons8-spotify-100.png",
+      "sizes": "100x100",
       "type": "image/png"
     },
   ]
